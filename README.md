@@ -38,3 +38,9 @@ The script:
 ## License
 
 MIT License
+
+---
+
+## Disclaimer
+
+This project was "vibe coded" - created spontaneously and casually using GitHub Copilot. While functional, it was developed for personal use and may not follow all professional development best practices. Use at your own risk!
